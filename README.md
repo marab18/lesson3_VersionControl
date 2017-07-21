@@ -4,16 +4,17 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 9, 2017
 
 ## Student Name:  
-(First and Last Name)
+Mara Buzatu
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project taught me the use and importance of Git and how to add information into a Bootstrap template.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1.	Git is a distributed version control system which gives every user a complete copy of data stored directly on their local computer that may be edited without overwriting.
+2.	Git has three basic steps: add, commit, push.
+3.	Each file in a working directory is either in a tracked state or untracked state.
+
 
